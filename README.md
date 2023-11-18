@@ -34,6 +34,8 @@ Microfinance Solutions: StarkForge can be adapted for microfinance applications,
 
 Interoperable DeFi Ecosystem: As a cross-layer lending protocol, StarkForge contributes to the interoperability of the broader DeFi ecosystem. Users can engage with various DeFi applications, leveraging StarkForge as a bridge between different blockchain networks.
 
+# Flow Diagram
+
 ![photo_6253336125594778838_y](https://github.com/Vennila-Seshadri/StarkForge/assets/122022195/a7b2664a-b5e2-47b8-9d26-5162fd257559)
 
 
